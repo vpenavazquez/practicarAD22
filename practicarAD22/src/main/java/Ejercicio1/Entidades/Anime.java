@@ -60,6 +60,9 @@ public class Anime {
         this.puntuacion = puntuacion;
     }
 
+
+
+
     public Estudio getEstudio() {
         return estudio;
     }
@@ -67,6 +70,8 @@ public class Anime {
     public void setEstudio(Estudio estudio) {
         this.estudio = estudio;
     }
+
+
 
     @Override
     public String toString() {
