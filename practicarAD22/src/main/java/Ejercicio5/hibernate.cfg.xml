@@ -12,8 +12,8 @@
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.format_sql">true</property>
 
-        <mapping class="Ejercicio4.Entidades.Autor"/>
-        <mapping class="Ejercicio4.Entidades.Comic"/>
-        <mapping class="Ejercicio4.Entidades.Protagonista"/>
+        <mapping class="Ejercicio5.Entidades.Personaje"/>
+        <mapping class="Ejercicio5.Entidades.Estudio"/>
+        <mapping class="Ejercicio5.Entidades.Videojuego"/>
     </session-factory>
 </hibernate-configuration>
