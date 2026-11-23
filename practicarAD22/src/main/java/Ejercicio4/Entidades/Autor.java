@@ -1,4 +1,4 @@
-package Ejercicio3.Entidades;
+package Ejercicio4.Entidades;
 
 
 import jakarta.persistence.*;
